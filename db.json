@@ -1,0 +1,34 @@
+{
+  "pageInfo": [
+    {
+      "totalPageCount": 1,
+      "totalRecordCount": 1,
+      "currentPage": 1
+    }
+  ],
+  "kokyakuIchiranList": [
+    {
+      "comkykichiranCod": "AAAA",
+      "comkeikykCod": "01",
+      "comsekkykCod": "01",
+      "comunckykCod": "00",
+      "comsekmeikykCod": "001",
+      "comsekrnmKnj": "決済顧客名",
+      "comsektantoKnj": "請求先担当者",
+      "sekkjnymdMot": "請求基準日相違（元払）",
+      "sekkjnymdCyk": "請求基準日相違（着払）",
+      "sekkjnymdOth": "請求基準日相違（元着以外）",
+      "tekiyostrYmd": "適用開始年月日",
+      "tekiyoendYmd": "適用終了年月日",
+      "comshimeiseiKnj": "社員名称（姓）ー漢字",
+      "comshimeimeiKnj": "社員名称（名）ー漢字",
+      "saidaiTekiyostrYmdFlg": "最大適用開始年月日フラグ"
+    }
+  ],
+  "msgInfo": [
+    {
+      "msgId": 1,
+      "msgInfo": 5
+    }
+  ]
+}
